@@ -1,0 +1,40 @@
+{
+  "subtitle": "Selecione o ambiente para continuar",
+  "heading": "Escolha uma unidade",
+  "selectPlaceholder": "-- Selecione --",
+  "openButtonLabel": "Abrir",
+  "hint": "Para trocar de ambiente, feche e abra o app novamente.",
+  "privacyPolicyUrl": "https://homolog_auditoria.papinfecto.com.br/privacy",
+  "environments": [
+    {
+      "id": "upasalles",
+      "name": "Upasalles",
+      "url": "https://upasalles.papinfecto.com.br/"
+    },
+    {
+      "id": "triade",
+      "name": "Triade",
+      "url": "http://triade.papinfecto.com.br/"
+    },
+    {
+      "id": "platao",
+      "name": "Platao",
+      "url": "http://platao.papinfecto.com.br/"
+    },
+    {
+      "id": "hdelphina",
+      "name": "H Delphina",
+      "url": "https://hdelphina.papinfecto.com.br/"
+    },
+    {
+      "id": "metropolitano",
+      "name": "Metropolitano",
+      "url": "https://hmue2.papinfecto.com.br/pacientes"
+    },
+    {
+      "id": "homologacao",
+      "name": "Homologacao",
+      "url": "https://homolog_auditoria.papinfecto.com.br/login"
+    }
+  ]
+}
