@@ -1,0 +1,15 @@
+{
+  "subtitle": "Selecione o ambiente para continuar",
+  "heading": "Escolha um ambiente",
+  "selectPlaceholder": "-- Selecione --",
+  "openButtonLabel": "Abrir",
+  "hint": "Para trocar de ambiente, feche e abra o app novamente.",
+  "privacyPolicyUrl": "https://cassems02.pap-sync.com.br/privacy",
+  "environments": [
+    {
+      "id": "cassems02",
+      "name": "CASSEMS 02",
+      "url": "https://cassems02.pap-sync.com.br/login"
+    }
+  ]
+}

@@ -12,6 +12,16 @@ URL publica (raw):
 
 - `https://raw.githubusercontent.com/AMED-SAUDE/public-app-configs/main/configs/infecto-assist-ionic.json`
 
+## PAP Ionic
+
+Arquivo de configuracao:
+
+- `configs/pap-config.json`
+
+URL publica (raw):
+
+- `https://raw.githubusercontent.com/AMED-SAUDE/public-app-configs/main/configs/pap-config.json`
+
 Campos aceitos no JSON:
 
 - `subtitle` (string)
