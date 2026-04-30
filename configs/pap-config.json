@@ -4,12 +4,12 @@
   "selectPlaceholder": "-- Selecione --",
   "openButtonLabel": "Abrir",
   "hint": "Para trocar de ambiente, feche e abra o app novamente.",
-  "privacyPolicyUrl": "https://cassems02.pap-sync.com.br/privacy",
+  "privacyPolicyUrl": "https://cassems.drpap.com.br/privacy",
   "environments": [
     {
       "id": "cassems02",
       "name": "CASSEMS 02",
-      "url": "https://cassems02.pap-sync.com.br/login"
+      "url": "https://cassems.drpap.com.br/login"
     }
   ]
 }
