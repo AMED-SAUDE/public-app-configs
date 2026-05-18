@@ -11,5 +11,12 @@
       "name": "CASSEMS 02",
       "url": "https://cassems.drpap.com.br/login"
     }
+
+     {
+      "id": "cassems02",
+      "name": "CASSEMS 02",
+      "url": "https://homolog-cassems.drpap.com.br/login"
+    }
+
   ]
 }
