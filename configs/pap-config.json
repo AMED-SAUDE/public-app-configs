@@ -7,9 +7,14 @@
   "privacyPolicyUrl": "https://cassems.drpap.com.br/privacy",
   "environments": [
     {
-      "id": "cassems02",
-      "name": "CASSEMS 02",
+      "id": "cassems",
+      "name": "CASSEMS",
       "url": "https://cassems.drpap.com.br/login"
+    },
+    {
+      "id": "cassems-homolog",
+      "name": "CASSEMS HOMOLOG",
+      "url": "https://homolog-cassems.drpap.com.br/login"
     }
   ]
 }
