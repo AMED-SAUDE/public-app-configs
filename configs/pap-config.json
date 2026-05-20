@@ -10,6 +10,11 @@
       "id": "cassems",
       "name": "CASSEMS",
       "url": "https://cassems.drpap.com.br/login"
+    },
+    {
+      "id": "cassems-homolog",
+      "name": "CASSEMS HOMOLOG",
+      "url": "https://homolog-cassems.drpap.com.br/login"
     }
   ]
 }
