@@ -15,6 +15,11 @@
       "id": "cassems-homolog",
       "name": "CASSEMS HOMOLOG",
       "url": "https://homolog-cassems.drpap.com.br/login"
+    },
+    {
+      "id": "circulo-catolico",
+      "name": "CIRCULO CATÓLICO",
+      "url": "https://ccou.drpap.uy/login"
     }
   ]
 }
