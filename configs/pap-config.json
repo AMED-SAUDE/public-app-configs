@@ -20,6 +20,11 @@
       "id": "circulo-catolico",
       "name": "CIRCULO CATÓLICO",
       "url": "https://ccou.drpap.uy/login"
+    },
+    {
+      "id": "metropolitano",
+      "name": "METROPOLITANO",
+      "url": "https://hmue.drpap.com.br/login"
     }
   ]
 }
