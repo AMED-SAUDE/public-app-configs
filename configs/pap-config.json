@@ -4,7 +4,8 @@
   "selectPlaceholder": "-- Selecione --",
   "openButtonLabel": "Abrir",
   "hint": "Para trocar de ambiente, feche e abra o app novamente.",
-  "privacyPolicyUrl": "https://cassems.drpap.com.br/privacy",
+  "privacyPolicyUrl": "https://suporte.drpap.com.br/privacy.html?lang=pt",
+  "supportUrl": "https://suporte.drpap.com.br/support.html?lang=pt",
   "environments": [
     {
       "id": "cassems",
